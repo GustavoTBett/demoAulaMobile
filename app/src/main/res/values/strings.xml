@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">demoAula</string>
+    <string name="title_activity_shared_prefs">SharedPrefsActivity</string>
+</resources>
